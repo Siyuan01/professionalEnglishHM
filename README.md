@@ -2,4 +2,4 @@
 
 [test.md](https://github.com/Weirdows/professionalEnglishHM/blob/main/test.md)
 
-![](https://github.com/Weirdows/professionalEnglishHM/blob/main/1.jpg)
+![This is a jpg file](https://github.com/Weirdows/professionalEnglishHM/blob/main/1.jpg)
